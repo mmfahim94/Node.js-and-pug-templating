@@ -1,0 +1,8 @@
+mixin article(source, title, description, footer)
+    div(class="card")
+        img(class="card-img-top" src= source)
+        div(class="card-block") 
+            h4(class="text")= title
+            p(class="card-text text")= description        
+        div(class="card-footer")
+            small(class="text-muted")= footer

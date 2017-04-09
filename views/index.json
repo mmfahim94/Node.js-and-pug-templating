@@ -1,0 +1,32 @@
+[
+	{
+		"title" : "Node.js",
+
+		"description" : "Node.js is an open-source, cross-platform JavaScript runtime environment for developing a diverse variety of server tools and applications. Although Node.js is not a JavaScript framework, many of its basic modules are written in JavaScript, and developers can write new modules in JavaScript. The runtime environment interprets JavaScript using Google's V8 JavaScript engine.",
+
+		"source" : "https://nodejs.org/static/images/logos/nodejs-2560x1440.png",
+
+		"footer" : "Information from wikipedia"
+	},
+
+	{
+		"title" : "Pug",
+
+		"description" : "Pug is a high performance template engine heavily influenced by Haml and implemented with JavaScript for Node.js and browsers.Pug was formerly known as Jade. However, it has been revealed that Jade is a registered trademark, and as a result a rename is needed. After some discussion among the maintainers, Pug has been chosen as the new name.",
+
+		"source" : "https://camo.githubusercontent.com/a43de8ca816e78b1c2666f7696f449b2eeddbeca/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667",
+
+		"footer" : "Information from wikipedia"
+	},
+
+	{
+		"title" : "Express js",
+
+		"description" : "Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It is the de facto standard server framework for Node.js.",
+
+		"source" : "http://www.cecs.co.in/images/icon/CodeEpsilon-expressjs.png",
+
+		"footer" : "Information from wikipedia"
+	}
+
+]

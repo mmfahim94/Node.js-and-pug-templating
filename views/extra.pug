@@ -1,0 +1,14 @@
+extends parent.pug
+
+block article
+
+    h1(class="h1") Dream Cars
+
+    hr
+
+    div 
+        include article.pug
+
+        div(class="card-deck center extra")
+            each val in articles
+                +article(val.source, val.title, val.description, val.footer) 

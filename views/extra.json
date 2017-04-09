@@ -1,0 +1,21 @@
+[
+	{
+		"title" : "Audi R8",
+
+		"description" : "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system. It was introduced by the German car manufacturer Audi AG in 2006.",
+
+		"source" : "https://s-media-cache-ak0.pinimg.com/originals/bc/e5/48/bce548569648276af0037088631d0501.jpg",
+
+		"footer" : "Information from wikipedia"
+	},
+
+	{
+		"title" : "Range Rover",
+
+		"description" : "The Range Rover Sport is a British luxury mid-size SUV made by Land Rover. The first generation (codename: L320) started production in 2005, and was replaced by the second generation Sport (codename: L494) in 2013.",
+
+		"source" : "https://i.ytimg.com/vi/VXYqR73pe2g/maxresdefault.jpg",
+
+		"footer" : "Information from wikipedia"
+	}
+]	

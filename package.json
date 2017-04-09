@@ -1,0 +1,14 @@
+{
+  "name": "lab05",
+  "version": "1.0.0",
+  "description": "cps630 - lab05",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

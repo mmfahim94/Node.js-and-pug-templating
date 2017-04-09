@@ -1,0 +1,24 @@
+extends parent.pug
+
+block article
+    h1(class="h1")  Favorite Teams
+
+    hr
+
+    include article.pug
+
+    div       
+
+        div(class="card-deck about")
+            +article(articles[0].source, articles[0].title, articles[0].description, articles[0].footer)
+
+            +article(articles[1].source, articles[1].title, articles[1].description, articles[1].footer)
+
+        hr
+            
+        h1(class="h1") About Me
+
+        hr
+
+        div(class="card-deck center me")
+            +article(articles[2].source, articles[2].title, articles[2].description, articles[2].footer)
